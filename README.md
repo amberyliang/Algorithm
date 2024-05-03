@@ -15,6 +15,7 @@ The result will be as image as below 執行時間結果比較圖&darr;&darr;
 The request as follow "Let's measure the degree of overlapping subproblem. Calculate the times are F(4) computed when we compute F(5),F(6),.....,F(50). Plot the results into line chart." 
 
 使用top-down方法計算從F(5)到F(50)中F(4)被使用的次數。
+
 The result will be as image as below 執行時間結果比較圖&darr;&darr;
 
 ![image](https://github.com/amberyliang/Algorithm/blob/main/Figure_1.png)
