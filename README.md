@@ -1,4 +1,4 @@
-# Algorithm
+# Algorithm - Fibonacci Number with  top-down and bottom-up methods
 Using top-down ( divide and conqure/ pure recursive)  and bottom-up  (dynamic-programming-like) methods to calculate the n-th Fibonacci Number, denoted as F(n).
 There are two files.
 
